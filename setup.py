@@ -10,7 +10,7 @@ classifiers=[
 
 setup(
     name='pypattern',
-    version='0.0.1',
+    version='0.0.2',
     description='Simple Python module for printing patterns for characters (Lower case and Upper case), numbers and special characters.',
     long_description=open('README.txt').read()+'\n\n'+open('CHANGELOG.txt').read(),
     long_description_content_type='text/markdown',
