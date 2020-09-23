@@ -1,0 +1,1 @@
+Simple Python module for printing patterns for characters (Lower case and Upper case), numbers and special characters.
