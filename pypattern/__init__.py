@@ -1,7 +1,7 @@
-from pypattern.Small_letters import *
-from pypattern.Capital_letters import *
-from pypattern.Numbers import *
-from pypattern.Special_characters import *
+from pypattern.small_letters import *
+from pypattern.capital_letters import *
+from pypattern.numbers import *
+from pypattern.special_characters import *
 
 
 def pattern(text,char='*'):
